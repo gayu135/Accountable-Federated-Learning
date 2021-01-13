@@ -1,4 +1,4 @@
-# Accountable-Federated-Learning
+# Accountable Federated Learning
 
 This repository is the implementation of the paper 'Accountable Federated Learning against Local Poisoning Attacks'. 
 
